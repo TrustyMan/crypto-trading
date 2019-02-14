@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "abcdefg",
+    "database": "winsshar",
+    "host": "159.89.156.89",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "abcdefg",
+    "database": "winsshar",
+    "host": "159.89.156.89",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "abcdefg",
+    "database": "winsshar",
+    "host": "159.89.156.89",
+    "dialect": "mysql"
+  }
+}
